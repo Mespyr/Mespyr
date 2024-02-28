@@ -24,7 +24,7 @@
 - ['Simple but Powerful Pratt Parsing' - matklad](https://matklad.github.io/2020/04/13/simple-but-powerful-pratt-parsing.html)
 - ['Lambda Calculus' - Learn X in Y minutes](https://learnxinyminutes.com/docs/lambda-calculus/)
 - The Divine Comedy
-
+<br>
 **Currently attempting:** A stack-based programming language with a slew of modern features for ease of development
 
 **Languages I know (varying levels of knowledge):** C, C++, Assembly (nasm/fasm), Python, Rust, HTML, CSS, Javascript, Lua, Make, Vimscript, Shellscript, Forth
