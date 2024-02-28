@@ -1,6 +1,6 @@
 <img src="profile.png" width="200" height="200">
 
-## Hi, my name's Mespyr! Or Senuk, call me whatever ^^
+## Hi, my name's Mespyr! Or Senuk, call me whatever 😊
 
 **Fun facts about me!**
 - I was born in Sri Lanka
