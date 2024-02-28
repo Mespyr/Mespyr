@@ -1,6 +1,6 @@
 <img src="profile.png" width="200" height="200">
 
-### Hi, my name's Mespyr! Or Senuk, call me whatever ^^
+## Hi, my name's Mespyr! Or Senuk, call me whatever ^^
 
 **Fun facts about me!**
 - I was born in Sri Lanka
@@ -13,10 +13,10 @@
 **Currently interested in:**
 - Game development (SDL)
 - Neural networks
-- Basic (I must know everything) calculus knowledge
+- Basic _(I must know everything)_ calculus knowledge
 - Programming languages
 - λ-calculus 😱😱
-- Low-level development (very low)
+- Low-level development _(very low)_
 - Forths (LIFO)
 
 **Currently reading:**
