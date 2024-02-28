@@ -25,6 +25,6 @@
 - ['Lambda Calculus' - Learn X in Y minutes](https://learnxinyminutes.com/docs/lambda-calculus/)
 - The Divine Comedy
 
-**Currently attempting:** [A stack-based programming language](https://github.com/Mespyr/Ochre) with a slew of modern features for ease of development
+**Currently attempting:** A stack-based programming language with a slew of modern features for ease of development
 
 **Languages I know (varying levels of knowledge):** C, C++, Assembly (nasm/fasm), Python, Rust, HTML, CSS, Javascript, Lua, Make, Vimscript, Shellscript, Forth
