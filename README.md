@@ -14,7 +14,7 @@
 - Game development (SDL)
 - Neural networks
 - Basic _(I must know everything)_ calculus knowledge
-- Programming languages
+- Programming language theory/development
 - λ-calculus 😱😱
 - Low-level development _(very low)_
 - Forths (LIFO)
