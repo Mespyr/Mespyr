@@ -1,6 +1,6 @@
 <img src="profile.png" width="200" height="200">
 
-## Hi, my name's Mespyr! Or Senuk, call me whatever 😊
+## Hi, my name's Senuk!
 
 **Fun facts about me!**
 - I was born in Sri Lanka
@@ -18,14 +18,9 @@
 - λ-calculus 😱😱
 - Low-level development _(very low)_
 - Forths (LIFO)
-
-**Currently reading:**
-- ['Implementing malloc' - Micheal Saele](https://moss.cs.iit.edu/cs351/slides/slides-malloc.pdf)
-- ['Simple but Powerful Pratt Parsing' - matklad](https://matklad.github.io/2020/04/13/simple-but-powerful-pratt-parsing.html)
-- ['Lambda Calculus' - Learn X in Y minutes](https://learnxinyminutes.com/docs/lambda-calculus/)
-- The Divine Comedy
+- Garbage Collectors
 <br>
 
-**Currently attempting:** A stack-based programming language with a slew of modern features for ease of development
+**Currently attempting:** A small, stack-based programming language with enough modern features for easy development, as well as interop with C 
 
-**Languages I know (varying levels of knowledge):** C, C++, Assembly (nasm/fasm), Python, Rust, HTML, CSS, Javascript, Lua, Make, Vimscript, Shellscript, Forth
+**Languages I know (varying levels of knowledge (some barely any)):** C, C++, Assembly (nasm/fasm), Python, Rust, HTML, CSS, Javascript, Lua, Make, Vimscript, Shell, Forth
