@@ -1,5 +1,3 @@
-<img src="profile.png" width="100" height="100" align="center">
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Mespyr&show_icons=true&icon_color=77bdfb&text_color=c6cdd5&bg_color=00000000&hide_title=true&hide_border=true" />
 
 **Fun facts about me!**
