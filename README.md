@@ -1,26 +1,19 @@
-<img src="profile.png" width="200" height="200">
+<img src="profile.png" width="100" height="100">
 
-## Hi, my name's Senuk!
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Mespyr&show_icons=true&icon_color=77bdfb&text_color=c6cdd5&bg_color=00000000&hide_title=true&hide_border=true" />
+
+# Hey there, I'm Senuk!
 
 **Fun facts about me!**
-- I was born in Sri Lanka
-- I lived in Germany for about a year when I was 3
-- I traveled to a lot of places (primarily in Europe) when I was younger
 - I enjoy keyboard and PC building
-- I started using Linux when I was 10
 - I play the baritone saxophone!
 
-**Currently interested in:**
+**Current Interests:**
 - Game development (SDL)
 - Neural networks
-- Basic _(I must know everything)_ calculus knowledge
 - Programming language theory/development
-- λ-calculus 😱😱
-- Low-level development _(very low)_
 - Forths (LIFO)
 - Garbage Collectors
 <br>
 
-**Currently attempting:** A small, stack-based programming language with enough modern features for easy development, as well as interop with C 
-
-**Languages I know (varying levels of knowledge (some barely any)):** C, C++, Assembly (nasm/fasm), Python, Rust, HTML, CSS, Javascript, Lua, Make, Vimscript, Shell, Forth
+**Languages I am studying:** C, C++, Assembly (nasm/fasm), Python, Rust, HTML, CSS, Javascript, Lua, Make, Vimscript, Shell, Forth
